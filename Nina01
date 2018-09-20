@@ -1,3 +1,4 @@
+# Função do primeiro grau
 import math
 
 a = int(input("informar o valor de a: "))
