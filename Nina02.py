@@ -8,5 +8,5 @@ x2 = int(input("coordenada x2 de P2: "))
 y2 = int(input("coordenada y2 de P2: "))
 
 d= math.sqrt( (x1-x2)**2 + (y1-y2)**2)
-print(" distância entre P1 e P2 é: ", d)6
+print(" distância entre P1 e P2 é: ", d)
 
